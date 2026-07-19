@@ -50,7 +50,7 @@ body {
 /* ================= HERO ================= */
 .hero {
     height: 85vh;
-    background: url("https://images.unsplash.com/photo-1517248135467-4c7edcad34c4") center/cover no-repeat;
+    background: url("images/interior.jpg") center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
